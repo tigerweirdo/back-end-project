@@ -30,7 +30,7 @@ module.exports = {
   production: {
     ...sharedConfig,
     connection: {
-      filename: "./prod.db",
+      filename: "./twitterClone.db3",
     },
   },
 };
